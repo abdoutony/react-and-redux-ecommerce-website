@@ -14,7 +14,7 @@ const MainPage = () => {
       <About />
       <FeaturedProducts />
       <Banner />
-
+      <NewArrival />
       <Footer />
     </>
   );
